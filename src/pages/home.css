@@ -1,0 +1,8 @@
+.homeDiv {
+    min-height: calc(100vh - 168px);
+}
+
+.heading{
+    margin-top: 40px;
+    text-align: center;
+}
